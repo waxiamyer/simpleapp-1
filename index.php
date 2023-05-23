@@ -12,5 +12,6 @@
 	<h2>PHP Demo Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
         <h2>Happy Tuesday</h2>
+        <h2>Last Line</h>$
 	</body> 
 </html>
